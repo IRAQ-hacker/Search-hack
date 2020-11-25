@@ -27,7 +27,7 @@ $ cd Search-hack
 
 $ chmod +x *
 
-$ python 
+$ python web.cpython-39.pyc
 ````
 
 ![istock-8501143101](https://user-images.githubusercontent.com/70316694/100176970-37e25b00-2ee2-11eb-8363-b09885310795.jpg)

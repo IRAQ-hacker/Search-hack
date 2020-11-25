@@ -21,6 +21,13 @@ $ pip install bs4
 
 $ pip install mechanize
 
+$ git clone https://github.com/IRAQ-hacker/Search-hack
+
+$ cd Search-hack
+
+$ chmod +x *
+
+$ python 
 ````
 
 ![istock-8501143101](https://user-images.githubusercontent.com/70316694/100176970-37e25b00-2ee2-11eb-8363-b09885310795.jpg)

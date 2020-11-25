@@ -1,7 +1,9 @@
 # Search-hack
 
 This script It tracks more than 10,000 websites in a short time
+----------
 And saves you a lot of effort with just the press of a button .
+----------
 # Use The Script :
 
 ````

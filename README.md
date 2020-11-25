@@ -7,15 +7,21 @@ And saves you a lot of effort with just the press of a button .
 ```
 pkg update && pkg upgrade -y
 ```
+``
 pkg install python -y
+```
 ```
 pkg install python2 -y
 ```
+```
 pkg install git
+```
 ```
 pip install requests
 ```
+```
 pip install bs4
+```
 ```
 pip install mechanize
 ```

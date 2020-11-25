@@ -21,6 +21,10 @@ $ pip install bs4
 
 $ pip install mechanize
 
+$ pip install google
+
+$ pip install beautifulsoup4
+
 $ git clone https://github.com/IRAQ-hacker/Search-hack
 
 $ cd Search-hack

@@ -39,7 +39,7 @@ $ python web.cpython-39.pyc
 -----------
 2- Telegram: https://t.me/iiwiw
 -----------
-3- channel Telegram: https://t.me/IIRAQ_New
+3- channel Telegram: https://t.me/IIRAQNew
 -----------
 4- Tam Tam: https://tamtam.chat/ixixx
 -----------
